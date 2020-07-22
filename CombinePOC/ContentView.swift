@@ -29,6 +29,16 @@ struct ContentView: View {
                     .frame(width: 200, height: 200, alignment: .center)
                     .foregroundColor(.white)
                 CurrentTempView(forecastViewModel: forcastViewModel)
+                
+                Text("7 Day Weather Forecast")
+                    .foregroundColor(.white)
+                .bold()
+                    .padding(.all, 20)
+                ScrollView(.horizontal, showsIndicators: false) {
+                    HStack {
+                       BottomScrollForeCast(forecastViewModel: forcastViewModel)
+                    }
+                }
             }
         }
     }

@@ -31,23 +31,24 @@ struct CurrentTempView: View {
                     Text("Wind")
                         .foregroundColor(Color("secondary"))
                 }
+                
+                VStack{
+                    Text(String((forecastViewModel.humidity)))
+                        .bold()
+                        .foregroundColor(Color("secondary"))
+                    Text("Humidity")
+                        .foregroundColor(Color("secondary"))
+                }
+                
+                VStack{
+                    Text(String(forecastViewModel.tempMax))
+                        .bold()
+                        .foregroundColor(Color("secondary"))
+                    Text("Max")
+                        .foregroundColor(Color("secondary"))
+                }
             }
             
-            VStack{
-                Text(String((forecastViewModel.humidity)))
-                    .bold()
-                    .foregroundColor(Color("secondary"))
-                Text("Humidity")
-                    .foregroundColor(Color("secondary"))
-            }
-            
-            VStack{
-                Text(String(forecastViewModel.tempMax))
-                    .bold()
-                    .foregroundColor(Color("secondary"))
-                Text("Max")
-                    .foregroundColor(Color("secondary"))
-            }
         }
     }
 }

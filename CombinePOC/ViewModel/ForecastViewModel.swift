@@ -85,12 +85,19 @@ class ForecastViewModel: ObservableObject {
     var humidity: String {
         if let humidity = weatherForCast.main?.humidity {
             let formattedWindhumidity = String(humidity)
-            return  formattedWindhumidity + "%"
+            return  formattedWindhumidity + ""
         } else {
             return ""
         }
     }
     
+    var date: Int {
+        if let day = weatherForCast.dt {
+            return day
+        } else {
+            return 0
+        }
+    }
     
     func searchCity() {
         if let city = self.cityName

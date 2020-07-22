@@ -29,6 +29,7 @@
 		45EC76A223AB8ED400FBCEC7 /* BO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC76A123AB8ED400FBCEC7 /* BO.swift */; };
 		45EC76A423ABE1C400FBCEC7 /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC76A323ABE1C400FBCEC7 /* TopView.swift */; };
 		832132D524C81BB300913985 /* CurrentTempView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 832132D424C81BB300913985 /* CurrentTempView.swift */; };
+		832132D724C845C500913985 /* BottomScrollForeCast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 832132D624C845C500913985 /* BottomScrollForeCast.swift */; };
 		835E9BE124C7F9BF009C53B3 /* MidView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835E9BE024C7F9BF009C53B3 /* MidView.swift */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		45EC76A123AB8ED400FBCEC7 /* BO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BO.swift; sourceTree = "<group>"; };
 		45EC76A323ABE1C400FBCEC7 /* TopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
 		832132D424C81BB300913985 /* CurrentTempView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentTempView.swift; sourceTree = "<group>"; };
+		832132D624C845C500913985 /* BottomScrollForeCast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomScrollForeCast.swift; sourceTree = "<group>"; };
 		835E9BE024C7F9BF009C53B3 /* MidView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MidView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -130,6 +132,7 @@
 				45EC76A323ABE1C400FBCEC7 /* TopView.swift */,
 				835E9BE024C7F9BF009C53B3 /* MidView.swift */,
 				832132D424C81BB300913985 /* CurrentTempView.swift */,
+				832132D624C845C500913985 /* BottomScrollForeCast.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				45E3B83C23A7F804000647D1 /* APIRequestModel.swift in Sources */,
 				45D0DC7F23A8FEEB000869E2 /* CommonErrorUtility.swift in Sources */,
 				4536687B23A94673000E6820 /* ErrorProvider.swift in Sources */,
+				832132D724C845C500913985 /* BottomScrollForeCast.swift in Sources */,
 				45EC76A223AB8ED400FBCEC7 /* BO.swift in Sources */,
 				453EF0C723A3988100CB85B8 /* ForecastViewModel.swift in Sources */,
 				453EF0A323A3729900CB85B8 /* WeatherForecast.xcdatamodeld in Sources */,
