@@ -20,11 +20,15 @@ struct ContentView: View {
         ZStack {
             BackSplash()
             VStack {
-//                TextField("Enter City Name", text: self.$forcastViewModel.cityName) {
-//                    self.forcastViewModel.searchCity()
-//                }
                 TopView(showField: self.showView, forcastViewModel: self.forcastViewModel)
                 MidView(forcastViewModel: self.forcastViewModel)
+            }
+            VStack(alignment: .center, spacing: 8) {
+                Image(systemName: Helper().showWeatherIcon(item: forcastViewModel.weatherForCast.weather?.first?.main ?? ""))
+                    .resizable()
+                    .frame(width: 200, height: 200, alignment: .center)
+                    .foregroundColor(.white)
+                CurrentTempView(forecastViewModel: forcastViewModel)
             }
         }
     }

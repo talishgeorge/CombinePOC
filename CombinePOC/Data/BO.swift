@@ -37,9 +37,9 @@ struct Coord: Codable {
 // MARK: - Main
 struct Main: Codable {
     var temp: Double?
-    var feelsLike: Double?
-    var tempMin: Double?
-    var tempMax: Double?
+    var feels_like: Double?
+    var temp_min: Double?
+    var temp_max: Double?
     var pressure: Int?
     var humidity: Int?
 }
@@ -56,7 +56,7 @@ struct Sys: Codable {
 struct Weather: Codable {
     var id: Int?
     var main: String?
-    var weatherDescription: String?
+    var description: String?
     var icon: String?
 }
 

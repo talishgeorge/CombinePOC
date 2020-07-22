@@ -18,8 +18,13 @@ struct MidView: View {
                     .font(.title)
                     .fontWeight(.light)
                 Text(forcastViewModel.weatherDay)
+                    .foregroundColor(.white)
+                    .font(.system(size:15))
+                .bold()
             }
-        }
+            Spacer()
+        }.padding(.trailing, 200)
+            .frame(width:400)
     }
 }
 

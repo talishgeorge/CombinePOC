@@ -20,11 +20,11 @@ struct Helper {
              }
           
     
-       func showWeatherIcon(item: Weather) -> String {
+       func showWeatherIcon(item: String) -> String {
                    
-                   let main = item.main
+                   //let main = item.main
                    
-                   switch main {
+                   switch item {
                    case "Ash":
                        return "cloud.hail"
                    case "Clear":

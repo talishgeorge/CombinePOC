@@ -44,6 +44,54 @@ class ForecastViewModel: ObservableObject {
         }
     }
     
+    var temperature: String {
+        if let temp = weatherForCast.main?.temp {
+            let formattedString = String(format: "%.0f", temp)
+            return formattedString + "°"
+        } else {
+            return ""
+        }
+    }
+    
+    var weatherDescription: String {
+        if let desc = weatherForCast.weather?.first?.description {
+            print(desc)
+            return desc.capitalized(with:.current)
+        } else {
+            return ""
+        }
+    }
+    
+    
+    var windSpeed: String {
+        if let wind = weatherForCast.wind?.speed {
+            let formattedWindSpeed = String(format: "%.1f", (wind))
+            return  formattedWindSpeed + "mi/h"
+        } else {
+            return ""
+        }
+    }
+    
+    
+    var tempMax: String {
+        if let temp = weatherForCast.main?.temp_max {
+            let formattedString = String(format: "%.0f", temp)
+            return formattedString + "°"
+        } else {
+            return ""
+        }
+    }
+    
+    var humidity: String {
+        if let humidity = weatherForCast.main?.humidity {
+            let formattedWindhumidity = String(humidity)
+            return  formattedWindhumidity + "%"
+        } else {
+            return ""
+        }
+    }
+    
+    
     func searchCity() {
         if let city = self.cityName
             .addingPercentEncoding(withAllowedCharacters: .urlHostAllowed) {
@@ -63,7 +111,7 @@ class ForecastViewModel: ObservableObject {
                 return
             }
             
-             self.isValid = true
+            self.isValid = true
         })
     }
     

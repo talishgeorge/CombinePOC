@@ -28,6 +28,7 @@
 		45E3B83E23A7F982000647D1 /* Headers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45E3B83D23A7F982000647D1 /* Headers.swift */; };
 		45EC76A223AB8ED400FBCEC7 /* BO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC76A123AB8ED400FBCEC7 /* BO.swift */; };
 		45EC76A423ABE1C400FBCEC7 /* TopView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EC76A323ABE1C400FBCEC7 /* TopView.swift */; };
+		832132D524C81BB300913985 /* CurrentTempView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 832132D424C81BB300913985 /* CurrentTempView.swift */; };
 		835E9BE124C7F9BF009C53B3 /* MidView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835E9BE024C7F9BF009C53B3 /* MidView.swift */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +55,7 @@
 		45E3B83D23A7F982000647D1 /* Headers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Headers.swift; sourceTree = "<group>"; };
 		45EC76A123AB8ED400FBCEC7 /* BO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BO.swift; sourceTree = "<group>"; };
 		45EC76A323ABE1C400FBCEC7 /* TopView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopView.swift; sourceTree = "<group>"; };
+		832132D424C81BB300913985 /* CurrentTempView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentTempView.swift; sourceTree = "<group>"; };
 		835E9BE024C7F9BF009C53B3 /* MidView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MidView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -127,6 +129,7 @@
 				453EF0BD23A37F7000CB85B8 /* BackSplash.swift */,
 				45EC76A323ABE1C400FBCEC7 /* TopView.swift */,
 				835E9BE024C7F9BF009C53B3 /* MidView.swift */,
+				832132D424C81BB300913985 /* CurrentTempView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 				45E3B83E23A7F982000647D1 /* Headers.swift in Sources */,
 				453EF0BE23A37F7000CB85B8 /* BackSplash.swift in Sources */,
 				453EF0A523A3729900CB85B8 /* ContentView.swift in Sources */,
+				832132D524C81BB300913985 /* CurrentTempView.swift in Sources */,
 				453EF0A023A3729900CB85B8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A0724D28-FF54-41AF-8469-75172E84E10E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD2FEF36-F844-466D-9CDA-5DCC5352E77E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinePOC/ViewModel/ForecastViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "weatherDescription"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57884C2D-493C-4B98-B0BB-F2D254047288"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinePOC/ViewModel/ForecastViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "weatherDescription"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "818113D5-CD0C-456B-929D-78D776A9D448"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinePOC/Helper/Helper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "showWeatherIcon(item:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "297">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "523">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "749">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "975">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1201">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1427">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1653">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1891">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2129">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2367">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2605">
+               </Location>
+               <Location
+                  uuid = "818113D5-CD0C-456B-929D-78D776A9D448 - ca76748a6eca2843"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CombinePOC.Helper.showWeatherIcon(item: Swift.String) -&gt; Swift.String"
+                  moduleName = "CombinePOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/talishgeorge/Documents/SwiftUI/SwiftUI-Demo/CombinePOC/CombinePOC/Helper/Helper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2843">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF403D86-A6CC-4C91-A290-65B83C99BA6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinePOC/ViewModel/ForecastViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "humidity"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B440AA0-C6F0-4264-970E-AE4B4567C088"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombinePOC/ViewModel/ForecastViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "tempMax"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
